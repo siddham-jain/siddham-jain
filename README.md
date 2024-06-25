@@ -2,7 +2,7 @@
 <br>Hey, I’m **Siddham Jain** (@siddham-jain)<br>
 **Skills:** Java, Python, Javascript, Spring Boot, React.js, Data Science, ML<br>
 **LinkedIn Profile:** https://www.linkedin.com/in/siddhamjain09/<br>
-**Interests:** AI/ML, DSA, Backend dev, Watching colo melon<br>
+**Interests:** AI/ML, DSA, Backend dev, Watching coco melon<br>
 **Upskilling:** Data Structures/Algorithms, Learning Technologies and Frameworks in MERN stack
 
 
